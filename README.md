@@ -1,2 +1,2 @@
 # python-assignment-work
-This repo if only for SMIT assignments.
+This repo is only for SMIT assignments.
